@@ -84,5 +84,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="",HITS NOW https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
 
-#EXTINF:-1 group-title="INDIHOME"  tvg-logo="",Bioskop Indonesia https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
+#EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbDsZD0lheS5Grh-OJ-uBT074jJJPpG7VkpA&usqp=CAU",Bioskop Indonesia
+https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
 
