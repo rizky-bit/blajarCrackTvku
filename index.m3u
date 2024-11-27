@@ -74,25 +74,15 @@ https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=l
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 #EXTINF:-1 group-title="ANIME"  tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Faniplus.png?alt=media&token=2fa2d637-1c28-4c64-b0a7-9d69c7435595",AniPlus Indonesia
-https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
+http://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="Sports",SONY SPORTS TEN 1 
-http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63537
+#EXTINF:-1 group-title="MOVIES"  tvg-logo="",BOO (FILM HORROR) http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Thrill
 
+#EXTINF:-1 group-title="INDIHOME"  tvg-logo="",HOREE https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LJGok7x.png" group-title="Sports",SONY SPORTS TEN 2
-http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
-http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63536
+#EXTINF:-1 group-title="INDIHOME"  tvg-logo="",HITS NOW https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
 
+#EXTINF:-1 group-title="INDIHOME"  tvg-logo="",HITS NOW https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
+
+#EXTINF:-1 group-title="INDIHOME"  tvg-logo="",Bioskop Indonesia https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
 
