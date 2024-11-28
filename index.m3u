@@ -36,17 +36,7 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png",TVN MOVIES
 https://cdn09jtedge.indihometv.com/joss/133/tvnmovies/index.m3u8?c
 
-#EXTINF:-1 group-title="ISLAM"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbdcIfv5qbgteuDiHypB5cEioy4JAWATcSjVk5Qv5jcPGUFnE41jqtk4&s=10",Ahsan Tv 
-https://flv.intechmedia.net/live/ch4.m3u8
 
-#EXTINF:-1 group-title="ISLAM"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbdcIfv5qbgteuDiHypB5cEioy4JAWATcSjVk5Qv5jcPGUFnE41jqtk4&s=10",Al Furqon Tv
-https://flv.intechmedia.net/live/ch24.m3u8
-
-#EXTINF:-1 group-title="ISLAM"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbdcIfv5qbgteuDiHypB5cEioy4JAWATcSjVk5Qv5jcPGUFnE41jqtk4&s=10",Al iman Tv 
-https://flv.intechmedia.net/live/ch9.m3u8
-
-#EXTINF:-1 group-title="ISLAM"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgbdcIfv5qbgteuDiHypB5cEioy4JAWATcSjVk5Qv5jcPGUFnE41jqtk4&s=10",Ashiil Tv
-https://flv.intechmedia.net/live/ch2.m3u8
 
 #EXTINF:-1 group-title="ISLAM"  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM
 https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8?c
