@@ -74,7 +74,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-chno="205" tvg-logo="https://github.com/justemonn1/tv/raw/main/master/poster/red-bull-tv-banner.webp" group-title="SPORTS",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="MOVIES"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbDsZD0lheS5Grh-OJ-uBT074jJJPpG7VkpA&usqp=CAU",BOO (FILM HORROR) 
+#EXTINF:-1 group-title="MOVIES"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbDsZD0lheS5Grh-OJ-uBT074jJJPpG7VkpA&usqp=CAU",BOO
 http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Thrill
 
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbDsZD0lheS5Grh-OJ-uBT074jJJPpG7VkpA&usqp=CAU",HOREE 
